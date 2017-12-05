@@ -8,5 +8,4 @@ array << yield(collection[i])
 i += 1
 end
 array
-end 
-
+end
